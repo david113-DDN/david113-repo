@@ -4,43 +4,44 @@
 
 #PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
 
-<poster>My Directory Title</poster>
-<fanart></fanart>
+<poster>David113-DDN Collection</poster>
+<fanart>http://images2.wikia.nocookie.net/__cb20120408204137/theamazingworldofgumball/images/5/5d/460272084.gif</fanart>
 
 #INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
 
 <info>
-	<message></message>
-	<message></message>
-	<message></message>
-	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH
+	<message>just for testing and nothing more!</message>
+	<message>trying to learn howto hack internet.</message>
+	<message>-DDN</message>
+	<message>[CR]</message>
 </info>
 
 #DIRECTORIES#
 
 <directories>
 	
-	<name></name>
+	<name>[COLOR blue]3D[/COLOR][B][COLOR white]Movies[/COLOR][/B]</name>
 	<thumbnail></thumbnail>
 	<link></link>
 
-	<name></name>
+	<name>[COLOR blue]HD [B][COLOR white]Movies[/COLOR][/B]</name>
 	<thumbnail></thumbnail>
 	<link></link>
 
-	<name></name>
+	<name>[COLOR blue]Animated[/COLOR] [B][COLOR white]Movies[/COLOR][/B]</name>
 	<thumbnail></thumbnail>
 	<link></link>
 
-	<name></name>
+	<name>[COLOR blue]TV[/COLOR][B][COLOR white]Shows[/COLOR][/B]</name>
 	<thumbnail></thumbnail>
 	<link></link>
 
-	<name></name>
+	<name>[B][COLOR yellow]Live-TV[/COLOR][/B]</name>
 	<thumbnail></thumbnail>
 	<link></link>
 
-</directories>
+
+</directories
 
 #
 #
