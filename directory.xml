@@ -20,23 +20,23 @@
 
 <directories>
 	
-	<name>[COLOR blue]3D[/COLOR][B][COLOR white]Movies[/COLOR][/B]</name>
+	<name>[COLOR=blue]3D[/COLOR][B][COLOR=white]Movies[/COLOR][/B]</name>
 	<thumbnail></thumbnail>
 	<link></link>
 
-	<name>[COLOR blue]HD [B][COLOR white]Movies[/COLOR][/B]</name>
+	<name>[COLOR=blue]HD [B][COLOR white]Movies[/COLOR][/B]</name>
 	<thumbnail></thumbnail>
 	<link></link>
 
-	<name>[COLOR blue]Animated[/COLOR] [B][COLOR white]Movies[/COLOR][/B]</name>
+	<name>[COLOR=blue]Animated[/COLOR] [B][COLOR=white]Movies[/COLOR][/B]</name>
 	<thumbnail></thumbnail>
 	<link></link>
 
-	<name>[COLOR blue]TV[/COLOR][B][COLOR white]Shows[/COLOR][/B]</name>
+	<name>[COLOR=blue]TV[/COLOR][B][COLOR=white]Shows[/COLOR][/B]</name>
 	<thumbnail></thumbnail>
 	<link></link>
 
-	<name>[B][COLOR yellow]Live-TV[/COLOR][/B]</name>
+	<name>[B][COLOR=yellow]Live-TV[/COLOR][/B]</name>
 	<thumbnail></thumbnail>
 	<link></link>
 
